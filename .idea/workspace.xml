@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e93e4d32-f4cf-432f-9eba-b444a53c9c35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UNET">
+      <favorite_root url="file://$PROJECT_DIR$/DataPrepare_Train.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/DataPrepare_Predict.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Train_Unet_Final.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Prediction.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Test_Eval.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9Lf6OanyVw9ylQN8uBHjs1keJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Prediction.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Train_Unet_WithBatch">
+    <configuration name="Prediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UNET" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prediction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train_Unet_Change_Loss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UNET" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train_Unet_Change_Loss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train_Unet_Final" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UNET" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train_Unet_Final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train_Unet_WithBatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UNET" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Train_Unet_WithBatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Train_Unet_WithoutHDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UNET" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Education\MSc\thesis\UrbanExpansion\Implementation\UNET\Train_Unet_Final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Train_Unet_WithBatch" />
+        <item itemvalue="Python.Train_Unet_Final" />
+        <item itemvalue="Python.Prediction" />
+        <item itemvalue="Python.Prediction" />
+        <item itemvalue="Python.Train_Unet_Change_Loss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e93e4d32-f4cf-432f-9eba-b444a53c9c35" name="Default Changelist" comment="" />
+      <created>1578556964027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578556964027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581235655770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581235655770" />
+    <state x="363" y="78" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578816715831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="78" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1578816715831" />
+    <state x="412" y="56" key="FileChooserDialogImpl" timestamp="1581320614405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="56" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581320614405" />
+    <state width="1339" height="540" key="GridCell.Tab.0.bottom" timestamp="1582105910440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="540" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582105910440" />
+    <state width="1339" height="540" key="GridCell.Tab.0.center" timestamp="1582105910440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="540" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582105910440" />
+    <state width="1339" height="540" key="GridCell.Tab.0.left" timestamp="1582105910440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="540" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582105910440" />
+    <state width="1339" height="540" key="GridCell.Tab.0.right" timestamp="1582105910440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="540" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582105910440" />
+    <state width="1339" height="210" key="GridCell.Tab.1.bottom" timestamp="1578750270250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578750270250" />
+    <state width="1339" height="210" key="GridCell.Tab.1.center" timestamp="1578750270250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578750270250" />
+    <state width="1339" height="210" key="GridCell.Tab.1.left" timestamp="1578750270249">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578750270249" />
+    <state width="1339" height="210" key="GridCell.Tab.1.right" timestamp="1578750270250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578750270250" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1581246785344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581246785344" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1584277495901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1584277495901" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580637237824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580637237824" />
+    <state x="451" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581151003408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1581151003408" />
+    <state x="237" y="23" width="875" height="663" key="recent.locations.popup" timestamp="1582548659558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="23" width="875" height="663" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1582548659558" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1582614689081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582614689081" />
+  </component>
+</project>
