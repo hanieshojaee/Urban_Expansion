@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e93e4d32-f4cf-432f-9eba-b444a53c9c35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled3-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled4-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled5-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled6-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Predict_UrbanExpansion_Isfahan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNet_for_UrbanExpansion_Isfahan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hyperparameter tuning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UNET.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UNET.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChipCreation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChipCreation_Predict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChipCreation_Train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataPrepare_Predict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataPrepare_Train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evaluation_by_TOC.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New_Normalization.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Normalization_With_MinMaxScaler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TOC.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Eval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Train_Unet_Change_Loss.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Train_Unet_Final.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Train_Unet_Model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Train_Unet_With9DTensors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Train_Unet_WithBatch.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miou.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
